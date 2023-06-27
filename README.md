@@ -1,7 +1,7 @@
 # Toot Splitter
 This Python program takes a long post as input and breaks it into 500-character blocks suitable for posting on Mastodon. 
 
-You can run the program directly on Colab here.
+You can run the program directly [here](https://colab.research.google.com/github/pbeens/Toot-Splitter/blob/main/toot-splitter.ipynb).
 
 ## Program Summary
 
